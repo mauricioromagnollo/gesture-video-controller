@@ -1,0 +1,15 @@
+{
+  "name": "webapp",
+  "version": "0.0.1",
+  "main": "index.js",
+  "keywords": [],
+  "author": "mauricioromagnollo",
+  "license": "MIT",
+  "description": "JSExpert Max Gesture Controller - Semana JS Expert 7.0",
+  "scripts": {
+    "start": "npx browser-sync ./src -w"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.27.11"
+  }
+}
