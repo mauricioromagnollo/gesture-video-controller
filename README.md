@@ -31,8 +31,8 @@ Open your browser at [http://localhost:3000](http://localhost:3000).
 - **Titles List**
   - [X] Should not crash the search field when typing a search term;
   - [ ] Should draw hands on screen and make background elements still clickable 🙌;
-  - [ ] Should trigger scroll up when using open palm 🖐;
-  - [ ] Should trigger scroll down when using closed palm ✊;
+  - [X] Should trigger scroll up when using open palm 🖐;
+  - [X] Should trigger scroll down when using closed palm ✊;
   - [ ] Should trigger click on nearest element when using pinch gesture 🤏🏻;
   - [ ] Should trigger **:hover** event on elements in context, when moving elements on screen;
 - **Video Player**
